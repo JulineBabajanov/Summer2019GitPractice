@@ -1,10 +1,7 @@
 package java_code;
 
-public class Person {
+public class student extends Person {
+public student (int age){ super (age);   }
 
-    int age;
-    int age2;
-    String firstName;
-    int age4;
 
 }
