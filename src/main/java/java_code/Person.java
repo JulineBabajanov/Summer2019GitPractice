@@ -3,7 +3,7 @@ package java_code;
 public class Person {
 
     int age;
-    yes;
+    int age2;
     String firstName;
 
 }
